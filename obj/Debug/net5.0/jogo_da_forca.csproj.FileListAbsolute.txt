@@ -1,0 +1,16 @@
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/bin/Debug/net5.0/jogo_da_forca
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/bin/Debug/net5.0/jogo_da_forca.deps.json
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/bin/Debug/net5.0/jogo_da_forca.runtimeconfig.json
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/bin/Debug/net5.0/jogo_da_forca.runtimeconfig.dev.json
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/bin/Debug/net5.0/jogo_da_forca.dll
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/bin/Debug/net5.0/ref/jogo_da_forca.dll
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/bin/Debug/net5.0/jogo_da_forca.pdb
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.csproj.AssemblyReference.cache
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.GeneratedMSBuildEditorConfig.editorconfig
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.AssemblyInfoInputs.cache
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.AssemblyInfo.cs
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.csproj.CoreCompileInputs.cache
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.dll
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/ref/jogo_da_forca.dll
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.pdb
+/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/Debug/net5.0/jogo_da_forca.genruntimeconfig.cache

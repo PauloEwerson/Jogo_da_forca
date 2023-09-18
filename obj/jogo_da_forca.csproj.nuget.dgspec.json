@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/jogo_da_forca.csproj": {}
+  },
+  "projects": {
+    "/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/jogo_da_forca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/jogo_da_forca.csproj",
+        "projectName": "jogo_da_forca",
+        "projectPath": "/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/jogo_da_forca.csproj",
+        "packagesPath": "/home/ewerson/.nuget/packages/",
+        "outputPath": "/media/ewerson/Trybe1/ADA/Projetos/jogo_da_forca/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ewerson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
